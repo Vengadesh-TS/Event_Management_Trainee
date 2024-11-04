@@ -219,3 +219,5 @@ app_license = "mit"
 # auth_hooks = [
 #	"event_management_app.auth.validate"
 # ]
+
+#just a comment
